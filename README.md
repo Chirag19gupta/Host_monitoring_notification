@@ -22,3 +22,6 @@ The results are getting saved in the temporary memory in a linux system but the 
 
 Usage of host monitoring notification for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developer assume no liability and are not responsible for any misuse or damage caused by this program
 
+## Suggestion
+
+Suggestions are always welcome to improve the quality of the tool.
