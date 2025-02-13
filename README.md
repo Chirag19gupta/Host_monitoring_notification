@@ -16,9 +16,7 @@ The results are getting saved in the temporary memory in a linux system but the 
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Screenshot 2025-02-13 230619](https://github.com/user-attachments/assets/b7567616-9e0d-4ea7-baa4-88c18814f5dc)
 
 ## Legal Disclaimer
 
